@@ -1,0 +1,36 @@
+@font-face{
+	font-family:Mifuente;
+	src:url('../Texto/Montserrat-Bold.otf');
+}
+body{
+  width: auto;
+		background:url("../Imagenes/degradado2.jpg");
+	}
+button{
+		color:#ffffff;
+		font: bold  21px Mifuente;
+		background:#13781d;
+  	padding: 15px;
+}
+input{
+	font: bold  21px Mifuente;
+    text-align:center;
+    margin: 15px auto;
+  	padding: 15px;
+}
+#cabeza{
+  font: bold  11px Mifuente;
+  text-align:left;
+}
+#table{
+	font: bold  19px Mifuente;
+	text-align:center;
+}
+#pregunta{
+	font: bold  21px Mifuente;
+	text-align:center;
+}
+select{
+	font: bold  21px Mifuente;
+	text-align:center;
+}
